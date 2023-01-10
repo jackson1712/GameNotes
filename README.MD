@@ -1,4 +1,4 @@
-# API GameNotes ✍🏾🎬
+# API GameNotes ✍🏾🎮
 
 - API develop for do notes about games 
 - API done to comment about games
